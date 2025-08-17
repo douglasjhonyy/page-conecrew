@@ -1,0 +1,44 @@
+#persona{
+    padding: 40px 4%;
+    margin: 10px;
+    border-top: 1px solid var(--color2);
+    
+}
+
+/* Pensona 1 */
+#persona-1{
+    display: flex;
+    
+    border-radius: 20px;
+    background-color: var(--color1);
+    width: 100vh;
+    height: 350px;
+    padding: 20px;
+    margin: 10px;
+    
+    align-items: center;
+   
+    
+
+}
+#persona-1 h3{
+    font-size: 50px;
+    
+    
+}
+#persona-1 p{
+    font-size: 35px;
+    
+    
+    
+}
+#persona-1 img{
+    border-radius: 50% ;
+    width: 300px;
+    height: 300px;
+    
+    
+    
+}
+
+/* Pensona 2 */
