@@ -42,3 +42,37 @@
 }
 
 /* Pensona 2 */
+#persona-2{
+    display: flex;
+    
+    border-radius: 20px;
+    background-color: var(--color1);
+    width: 100vh;
+    height: 350px;
+    padding: 20px;
+    margin: 10px;
+    
+    align-items: center;
+   
+    
+
+}
+#persona-2 h3{
+    font-size: 50px;
+    
+    
+}
+#persona-2 p{
+    font-size: 35px;
+    
+    
+    
+}
+#persona-2 img{
+    border-radius: 50% ;
+    width: 300px;
+    height: 300px;
+    
+    
+    
+}
