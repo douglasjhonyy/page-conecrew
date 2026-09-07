@@ -3,7 +3,8 @@
   position: absolute;
   bottom: 0;
   width: 350.625em;
-  height: 43.4em;
+  /* height: 45.4em; */
+  height: 89.42vh;
   animation: rotationLeft 80s linear infinite;
   z-index: 1;
 

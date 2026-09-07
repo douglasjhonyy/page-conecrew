@@ -1,34 +1,21 @@
-
 @media screen and (max-width: 768px) {
-    #image-grupo, .cloud{
-        
+
+    #image-grupo,
+    .cloud {
+
         display: none;
     }
-    
-    
-}
-@media screen and (max-width: 768px) {
-    
-    
-   #persona img{
-    
-    
-        
-    }
-    
 
-    
+
 }
 
+
 @media screen and (max-width: 768px) {
+
     
-    
-   #persona p, h3{
-       display: none;
+    #persona p,
+    h3 {
+        display: none;
     }
 
-    
-    
-
-    
 }
