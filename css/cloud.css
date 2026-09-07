@@ -1,7 +1,5 @@
-
-
 .cloud {
-  background-color: rgba(0,0,0, .4);
+  background-color: rgba(0, 0, 0, .4);
   position: absolute;
   bottom: 0;
   width: 350.625em;
@@ -9,18 +7,15 @@
   animation: rotationLeft 80s linear infinite;
   z-index: 1;
 
-
-  
- 
-  
 }
 
 @keyframes rotationLeft {
   0% {
     transform: translateZ(0);
   }
+
   100% {
-    transform: translate3d(-50%,0,0);
+    transform: translate3d(-50%, 0, 0);
   }
 
 }
